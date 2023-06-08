@@ -1,3 +1,4 @@
+
 # DSP-Equalizer-and-Instruments-player
 <p align="Left">
   <img src="https://img.shields.io/github/license/RamadanIbrahem98/sound-equalizer?style=plastic&logo=appveyor&color=blue" alt="license" />
@@ -14,5 +15,5 @@ This is a Sound Equalizer GUI App Using Python's PyQt5. It gives you the ability
     -   scipy
     -   matplotlib
 
-
-![runEQ](https://user-images.githubusercontent.com/61332730/142736942-37adca25-9da1-431a-88e9-f5e878d0120c.gif)
+![equal](https://github.com/Yasien99/Equalizer-and-Instruments-player/assets/55417069/2bb8eb50-bf53-418a-a602-ffa078887d8e)
+![equal2](https://github.com/Yasien99/Equalizer-and-Instruments-player/assets/55417069/6219add6-4b1e-4f4a-9233-e91e4143b5c2)
